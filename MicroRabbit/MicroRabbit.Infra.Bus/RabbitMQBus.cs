@@ -15,18 +15,19 @@ namespace MicroRabbit.Infra.Bus
 {
     public sealed class RabbitMQBus : IEventBus
     {
-        private readonly IMediator _mediatr;
+        //private readonly IMediator _mediatr;
         private readonly Dictionary<string, List<Type>> _handlers;
         private readonly List<Type> _eventTypes;
-        public RabbitMQBus(IMediator mediator)
+        public RabbitMQBus(/*IMediator mediator*/)
         {
-            _mediatr = mediator;
+            //_mediatr = mediator;
             _handlers = new Dictionary<string, List<Type>>();
             _eventTypes = new List<Type>();
         }
         public Task SendCommand<T>(T command) where T : Command
         {
-            return _mediatr.Send(command);
+            //return _mediatr.Send(command);
+            return null;
         }
         public void Publish<T>(T @event) where T : Event
         {
