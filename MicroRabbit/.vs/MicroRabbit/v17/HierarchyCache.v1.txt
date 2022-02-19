@@ -1,0 +1,318 @@
+﻿++Solution 'MicroRabbit' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:MicroRabbit.sln
+++Presentation
+i:{00000000-0000-0000-0000-000000000000}:Presentation
+++Infra.IoC
+i:{00000000-0000-0000-0000-000000000000}:Infra.IoC
+++MicroRabbit.Infra.IoC
+i:{3ae55397-8a23-40e5-b22f-43fc6fb47ab7}:MicroRabbit.Infra.IoC
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.infra.ioc\microrabbit.infra.ioc.csproj
+++Dependencies
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:>191
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:>105
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:>10
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:>545
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:>493
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:>597
+i:{80674704-6914-447d-a566-615f2a03156e}:>426
+++Analyzers
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:analyzers
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:analyzers
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:analyzers
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:analyzers
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:analyzers
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:analyzers
+i:{80674704-6914-447d-a566-615f2a03156e}:analyzers
+++Frameworks
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:frameworks
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:frameworks
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:frameworks
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:frameworks
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:frameworks
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:frameworks
+i:{80674704-6914-447d-a566-615f2a03156e}:frameworks
+++Packages
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:packages
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:packages
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:packages
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:packages
+++Projects
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:projects
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:projects
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:projects
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:projects
+i:{80674704-6914-447d-a566-615f2a03156e}:projects
+++DependencyContainer.cs
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.infra.ioc\dependencycontainer.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{80674704-6914-447d-a566-615f2a03156e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{80674704-6914-447d-a566-615f2a03156e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:c:\users\meteh\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{80674704-6914-447d-a566-615f2a03156e}:c:\users\meteh\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:c:\users\meteh\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.infra.ioc\microsoft.netcore.app
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.infra.bus\microsoft.netcore.app
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\microsoft.netcore.app
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.data\microsoft.netcore.app
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.application\microsoft.netcore.app
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\microsoft.netcore.app
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\microsoft.netcore.app
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:>238
+++MicroRabbit.Banking.Application
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.application\bin\debug\net5.0\microrabbit.banking.application.dll
+i:{ac2e1488-c0a8-4255-a0d2-0da1689d0eb8}:MicroRabbit.Banking.Application
+++MicroRabbit.Banking.Data
+i:{868caf5a-39a0-4937-b830-a8fbf081882b}:MicroRabbit.Banking.Data
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.data\microrabbit.banking.data.csproj
+++MicroRabbit.Domain.Core
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\bin\debug\net5.0\microrabbit.domain.core.dll
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\bin\debug\net5.0\microrabbit.domain.core.dll
+i:{8c274eec-fff6-4a82-9114-f8c3493d7d10}:MicroRabbit.Domain.Core
+++MicroRabbit.Infra.Bus
+i:{33a571d0-6da1-44be-8a79-1c5ccee36a1a}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.infra.bus\bin\debug\net5.0\microrabbit.infra.bus.dll
+i:{6396f27c-54f8-45f2-a296-f7917df288de}:MicroRabbit.Infra.Bus
+++Infra.Bus
+i:{00000000-0000-0000-0000-000000000000}:Infra.Bus
+++RabbitMQBus.cs
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.infra.bus\rabbitmqbus.cs
+++MediatR (10.0.1)
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:>156
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:>74
+++Newtonsoft.Json (13.0.1)
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:>158
+++RabbitMQ.Client (6.2.3)
+i:{77350d78-4e3c-4947-88d3-d1e1111cfbee}:>157
+++Domain
+i:{00000000-0000-0000-0000-000000000000}:Domain
+i:{74a83d3a-cf95-4e25-aaa6-2cea92643eac}:Domain
+++Bus
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\bus\
+++IEventBus.cs
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\bus\ieventbus.cs
+++IEventHandler.cs
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\bus\ieventhandler.cs
+++Commands
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\commands\
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\commands\
+++Command.cs
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\commands\command.cs
+++Events
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\events\
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\events\
+++Event.cs
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\events\event.cs
+++Message.cs
+i:{d2f62f17-ffbb-4246-8682-47af781f18f5}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.domain.core\events\message.cs
+++Microservices
+i:{00000000-0000-0000-0000-000000000000}:Microservices
+++Banking
+i:{2820d2cb-cfcc-4e60-8b8c-68f686725807}:Banking
+++Data
+i:{74a83d3a-cf95-4e25-aaa6-2cea92643eac}:Data
+++Microsoft.EntityFrameworkCore (5.0.14)
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:>664
+++Microsoft.EntityFrameworkCore.Design (5.0.14)
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:>822
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.14)
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:>823
+++Microsoft.EntityFrameworkCore.Tools (5.0.14)
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:>824
+++Context
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.data\context\
+++BankingDbContext.cs
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.data\context\bankingdbcontext.cs
+++Repository
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.data\repository\
+++AccountRepository.cs
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.data\repository\accountrepository.cs
+++MicroRabbit.Banking.Domain
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\bin\debug\net5.0\microrabbit.banking.domain.dll
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\bin\debug\net5.0\microrabbit.banking.domain.dll
+i:{1afbfee7-5d8f-4d7a-a4ae-f5a69145c3d2}:MicroRabbit.Banking.Domain
+++Application
+i:{74a83d3a-cf95-4e25-aaa6-2cea92643eac}:Application
+++Interfaces
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.application\interfaces\
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\interfaces\
+++IAccountService.cs
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.application\interfaces\iaccountservice.cs
+++Services
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.application\services\
+++AccountService.cs
+i:{c75e0e30-e362-48eb-a653-67dff6966ebf}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.application\services\accountservice.cs
+++CommandHandlers
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\commandhandlers\
+++EventHandlers
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\eventhandlers\
+++IAccountRepository.cs
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\interfaces\iaccountrepository.cs
+++Models
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\models\
+++Account.cs
+i:{408aa45c-7ee0-4e3b-bcfe-c89be273819c}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.domain\models\account.cs
+++Api
+i:{74a83d3a-cf95-4e25-aaa6-2cea92643eac}:Api
+++MicroRabbit.Banking.Api
+i:{a16992f7-d925-4da8-adca-c1ab2d539c84}:MicroRabbit.Banking.Api
+++Connected Services 
+i:{80674704-6914-447d-a566-615f2a03156e}:>427
+++Properties
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\properties\
+++wwwroot
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\
+++Pages
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\
+++appsettings.json
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\appsettings.json
+++Program.cs
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\program.cs
+++Startup.cs
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\startup.cs
+++No service dependencies discovered
+++launchSettings.json
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\properties\launchsettings.json
+++css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\css\
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\js\
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\
+++favicon.ico
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\favicon.ico
+++Shared
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\shared\
+++_ViewImports.cshtml
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\_viewstart.cshtml
+++Error.cshtml
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\error.cshtml
+++Index.cshtml
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\index.cshtml
+++Privacy.cshtml
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\privacy.cshtml
+++appsettings.Development.json
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{80674704-6914-447d-a566-615f2a03156e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{80674704-6914-447d-a566-615f2a03156e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{80674704-6914-447d-a566-615f2a03156e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\microsoft.aspnetcore.app
+++site.css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\css\site.css
+++site.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\js\site.js
+++bootstrap
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\
+++jquery
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery\
+++jquery-validation
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\pages\privacy.cshtml.cs
+++dist
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery\dist\
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery\license.txt
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{80674704-6914-447d-a566-615f2a03156e}:d:\sourcecode\getting started .net core microservices rabbitmq new\microrabbit\microrabbit.banking.api\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Microsoft.EntityFrameworkCore.Sqlite (5.0.14)
+i:{bd41ee39-8d73-43f3-bc58-16459da15c62}:>1117
+++SQL Server Database (ConnectionStrings:BankingDbConnection)
+i:{80674704-6914-447d-a566-615f2a03156e}:>2024
+++SQL Server Database dependency with connectionId 'ConnectionStrings:BankingDbConnection' is detected
+i:{80674704-6914-447d-a566-615f2a03156e}:>2025
