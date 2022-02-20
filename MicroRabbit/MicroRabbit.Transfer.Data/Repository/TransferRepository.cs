@@ -16,5 +16,10 @@ namespace MicroRabbit.Transfer.Data.Repository
         {
             return _ctx.TransferLogs;
         }
+        public async void Add(TransferLog TransferLog)
+        {
+            _ctx.Add(TransferLog);
+            await _ctx.SaveChangesAsync();
+        }
     }
 }
