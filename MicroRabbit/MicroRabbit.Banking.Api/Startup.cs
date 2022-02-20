@@ -27,13 +27,11 @@ namespace MicroRabbit.Banking.Api
             {
                 options.UseSqlite(Configuration.GetConnectionString("BankingDbConnection"));
             });
-            services.AddRazorPages();
-
-            //services.AddSwaggerGen(c =>
-            //{
-            //    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Banking Microservice", Version = "v1" });
-            //});
-
+            services.AddControllers();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "MicroRabbit.Banking.Api", Version = "v1" });
+            });
             services.AddMediatR(typeof(Startup));
 
             RegisterServices(services);
@@ -50,23 +48,11 @@ namespace MicroRabbit.Banking.Api
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                
-            }
-            else
-            {
-                app.UseExceptionHandler("/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+                app.UseSwagger();
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MicroRabbit.Banking.Api v1"));
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
-            //app.UseSwagger();
-            //app.UseSwaggerUI(c =>
-            //{
-            //    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Banking Microservcie v1"));
-            //});
-
 
             app.UseRouting();
 
@@ -74,7 +60,7 @@ namespace MicroRabbit.Banking.Api
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllers();
             });
         }
     }
